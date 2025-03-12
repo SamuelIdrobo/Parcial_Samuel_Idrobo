@@ -25,9 +25,9 @@ public class Parcial {
     } else {
 // Luego hacemos la operacion para saber si hay multiplos usando %
         if (numero1 % numero2 == 0) {
-            System.out.println(numero1 + " es múltiplo de " + numero2);
+            System.out.println(numero1 + " múltiplo de " + numero2);
         } else if (numero2 % numero1 == 0) {
-            System.out.println(numero2 + " es múltiplo de " + numero1);
+            System.out.println(numero2 + " múltiplo de " + numero1);
         } else {
             System.out.println("Ninguno es múltiplo del otro");
 // Y ya imprimimos el resultado final
