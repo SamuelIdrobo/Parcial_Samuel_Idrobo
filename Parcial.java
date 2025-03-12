@@ -22,6 +22,7 @@ public class Parcial {
 // Me aseguro de que el cero no impida dividir
     if (numero2 == 0 || numero1 == 0) {
         System.out.println("No se puede dividir por cero.");
+        System.out.println("No se puede dividir por cero");
     } else {
 // Luego hacemos la operacion para saber si hay multiplos usando %
         if (numero1 % numero2 == 0) {
@@ -30,6 +31,7 @@ public class Parcial {
             System.out.println(numero2 + " es múltiplo de " + numero1);
         } else {
             System.out.println("Ninguno de estos números es múltiplo del otro");
+            System.out.println("Ninguno de estos 2 números es múltiplo del otro");
 // Y ya imprimimos el resultado final
         }
     }
