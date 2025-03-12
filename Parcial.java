@@ -29,7 +29,7 @@ public class Parcial {
         } else if (numero2 % numero1 == 0) {
             System.out.println(numero2 + " es múltiplo de " + numero1);
         } else {
-            System.out.println("Ninguno de estos 2 números es múltiplo del otro");
+            System.out.println("Ninguno es múltiplo del otro");
 // Y ya imprimimos el resultado final
         }
     }
