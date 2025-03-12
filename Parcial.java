@@ -35,4 +35,4 @@ public class Parcial {
     }
 }      
 }
-// Posibles errores ( Al hacer divisiones con 0, por eso esta especificado == 0)..
+// Posibles errores ( Al hacer divisiones con 0, por eso esta especificado == 0)...
